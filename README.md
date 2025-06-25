@@ -6,19 +6,14 @@
 
     <!-- 基本信息 -->
     <h3>张 晗</h3>
-    <p>鹏城国家实验室.</p>
-     <p>哈尔滨工业大学</p>
+    <p>鹏城国家实验室</p>
+    <p>哈尔滨工业大学</p>
 
     <!-- 联系方式 -->
     <ul style="list-style-type: none; padding: 0;">
-      <li><i class="fas fa-map-marker-alt"></i> Beijing, China</li>
-      <li><i class="fas fa-envelope"></i> <a href="mailto:xiaoteng.ma@example.com">Email</a></li>
-      <li><i class="fas fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Xiaoteng_Ma">ResearchGate</a></li> 
-      <li><i class="fas fa-database"></i> <a href="https://dblp.org/pid/m/XiaotengMa.html">DBLP</a></li> 
-      <li><i class="fab fa-github"></i> <a href="https://github.com/xiaotengma">Github</a></li> 
-      <li><i class="fab fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=example">Google Scholar</a></li>
-      <li><i class="fas fa-id-card"></i> <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a></li>
-      <li><i class="fas fa-book-open"></i> <a href="https://zhuanlan.zhihu.com/xiaotengma">知乎</a></li>
+      <li><i class="fas fa-map-marker-alt"></i> 深圳, 中国</li>
+      <li><i class="fas fa-envelope"></i> <a href="mailto:HanlardResearch@gmail.com">Email</a></li>
+      <li><i class="fab fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=lhdgPb8AAAAJ&hl=zh-CN">Google Scholar</a></li>
     </ul>
   </div>
 
