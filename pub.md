@@ -3,7 +3,7 @@
 
 
 ### I. 会议论文
-- [Correcting Large Language Model Behavior via Influence Function](https://ojs.aaai.org/index.php/AAAI/article/view/33586). **Han Zhang (张晗)**, Zhuo Zhang, Yi Zhang, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
+- [Correcting Large Language Model Behavior via Influence Function](https://ojs.aaai.org/index.php/AAAI/article/view/33586). **Han Zhang (张晗)**, Zhuo Zhang, Yi Zhang, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.<span style="color:red">(Oral)</span>
 
 - [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/pdf?id=86zAUE80pP). **Han Zhang (张晗)**, Yu Lei, Lin Gui, et al. *International Conference on Learning Representations* (**ICLR**), 2024.
 
