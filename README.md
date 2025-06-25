@@ -1,13 +1,4 @@
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 
 # 👨‍🎓 About Me
 I am Xiaoteng Ma, a postdoctoral researcher in the Department of Automation at Tsinghua University. Currently, I am working closely with the [MIG lab](https://mig-ai.github.io/index.html) led by [Prof. Chongjie Zhang](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) (currently with McKelvey School of Engineering, Washington University in St. Louis). Prior to this role, I obtained my Ph.D. degree in June, 2023. During my doctoral studies, I was a member of [CFINS](http://cfins.au.tsinghua.edu.cn/en/about/index.php) and was supervised by [Prof. Qianchuan Zhao](http://cfins.au.tsinghua.edu.cn/personalhg/zhaoqc/) and [Prof. Li Xia](http://bus.sysu.edu.cn/en/teacher/XiaLi) (currently with the Business School at Sun Yat-Sen University). I completed my Bachelor of Engineering degree from the Department of Automation at Xi'an Jiaotong University in 2017. 
