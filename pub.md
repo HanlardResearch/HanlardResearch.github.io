@@ -11,7 +11,7 @@
  
 - [Incremental pre-training from smaller language models](https://aclanthology.org/2024.sighan-1.5.pdf) **Han Zhang (张晗)**, Wang Hui, Xu Ruifeng. *Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing* (**SIGHAN-10**), 2025.
 
-- [BeyondGender: A Multifaceted Bilingual Dataset for Practical Sexism Detection] (https://ojs.aaai.org/index.php/AAAI/article/view/34656) Xuan Luo, Li Yang, **Han Zhang (张晗)**, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
+- [BeyondGender: A Multifaceted Bilingual Dataset for Practical Sexism Detection](https://ojs.aaai.org/index.php/AAAI/article/view/34656) Xuan Luo, Li Yang, **Han Zhang (张晗)**, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
 
 ## Journal Paper
 - [An Orthogonality-based Dual-memory Framework for Continual Text Classification](https://ieeexplore.ieee.org/abstract/document/11027445) **Han Zhang (张晗)**, Yu Lei, Bin Liang, et al. * IEEE Transactions on Audio, Speech and Language Processing* (**TASLP**), 2025.
