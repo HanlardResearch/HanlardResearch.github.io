@@ -2,7 +2,7 @@
 <div style="display: flex; gap: 20px;">
   <!-- 左侧部分：头像和基本信息 -->
   <div style="flex: 1;">
-    <img src="[https://github.com/HanlardResearch/HanlardResearch.github.io/blob/main/tx.jpg]"  alt="Your Profile Picture" width="200" height="200" style="border-radius: 50%;">
+    <img src="https://github.com/HanlardResearch/HanlardResearch.github.io/blob/main/tx.jpg"  alt="Your Profile Picture" width="200" height="200" style="border-radius: 50%;">
 
     <!-- 基本信息 -->
     <h3>Xiaoteng Ma</h3>
