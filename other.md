@@ -24,4 +24,4 @@
 
 **微信**: zhanghan80903262
 
-**谷歌学术**: https://scholar.google.com/citations?user=lhdgPb8AAAAJ&hl=zh-CN[https://scholar.google.com/citations?user=lhdgPb8AAAAJ&hl=zh-CN]
+**谷歌学术**: 链接[https://scholar.google.com/citations?user=lhdgPb8AAAAJ&hl=zh-CN]
