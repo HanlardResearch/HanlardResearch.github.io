@@ -23,3 +23,5 @@
 **邮箱**: zhangh04@pcl.ac.cn
 
 **微信**: zhanghan80903262
+
+**谷歌学术**: https://scholar.google.com/citations?user=lhdgPb8AAAAJ&hl=zh-CN[https://scholar.google.com/citations?user=lhdgPb8AAAAJ&hl=zh-CN]
