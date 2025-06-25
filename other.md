@@ -1,27 +1,25 @@
-# 🥇 Honors and Awards
-- *2022.10* Tsinghua Comprehensive Scholarship
-- *2021.10* Tsinghua Comprehensive Scholarship
-- *2015.10* Xi'an Jiaotong University Outstanding Student (Undergraduate) (Top 10)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
-- *2014.10* National Scholarship (Undergraduate) (Top 1%)
+# 🥇 获奖情况
+- *2025.05* 鹏城实验室优秀博士提名
+- *2024.12* 鹏城实验室主任奖学金
+- *2023.10* 第二届暹星杯竞赛一等奖
+- *2022.11* 鹏城实验室主任奖学金
+- *2014.04* 全国大学生数学竞赛一等奖
 
+# 📖 教育经历
+- *2021.09 - 2025.06*，哈尔滨工业大学（深圳）& 鹏城国家实验室，博士学位，专业：计算机技术
+- *2015.09 - 2017.12*，国防科技大学，硕士学位，专业：应用数学
+- *2011.09 - 2015.06*，河北工业大学，学士学位，专业：数学与应用数学
 
-# 📖 Educations
-- *2017.09 - 2023.06*, Ph.D., Department of Automation, Tsinghua University.
-- *2013.09 - 2017.06*, Bachelor, Department of Automation, Xi'an Jiaotong Univeristy.
+# 💼 工作经历
+- *2018.01 - 2020.03*，中国人民解放军火箭军
+- *2020.04 - 2020.07*，中国航天科工集团先进院
+- *2020.08 - 2020.12*，腾讯科技（深圳）
+- *2020.12 - 2021.08*，鹏城国家实验室
 
+## 📞 联系方式
 
-# 💻 Internships
-- *2018.09 - 2018.11*, [SenseTime](https://www.sensetime.com/), Beijing.
-- *2017.07 - 2017.08*, [Institute of Automation, CAS](https://ia.cas.cn/), Beijing.
+**张晗 (Hanlard)**
 
+**邮箱**: zhangh04@pcl.ac.cn
 
-## 📞 Contact
-
-*Xiaoteng Ma*
-
-[Department of Automation](https://www.au.tsinghua.edu.cn/) \
-[Tsinghua University](https://www.tsinghua.edu.cn/en/) \
-FIT Building 1-109 \
-Beijing, China, 100084 \
-E-mail: pony[DOT]xtma[AT]gmail[DOT]com
+**微信**: zhanghan80903262
