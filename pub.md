@@ -1,4 +1,6 @@
-# 📝 Publications 
+
+# 📝 发表论文
+
 
 ## Conference Paper
 - [Correcting Large Language Model Behavior via Influence Function](https://ojs.aaai.org/index.php/AAAI/article/view/33586). **Han Zhang (张晗)**, Zhuo Zhang, Yi Zhang, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
