@@ -7,7 +7,7 @@
 
 - [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/pdf?id=86zAUE80pP). **Han Zhang (张晗)**, Yu Lei, Lin Gui, et al. *International Conference on Learning Representations* (**ICLR**), 2024.
 
-- [COPR: Continual Human Preference Learning via Optimal Policy Regularization](https://arxiv.org/abs/2402.14228). **Han Zhang (张晗)**, Lin Gui, Yu Lei, et al. *Association for Computational Linguistics* (**ACL**), 2025.
+- [COPR: Continual Human Preference Learning via Optimal Policy Regularization](https://aclanthology.org/2025.findings-acl.281/). **Han Zhang (张晗)**, Lin Gui, Yu Lei, et al. *Association for Computational Linguistics* (**ACL**), 2025.
 
 - [CLLE: A benchmark for continual language learning evaluation in multilingual machine translation](https://aclanthology.org/2022.findings-emnlp.30.pdf). **Han Zhang (张晗)**, Sheng Zhang, Yang Xiang, et al. *Empirical Methods in Natural Language Processing* (**EMNLP**), 2022.
  
