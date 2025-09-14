@@ -72,6 +72,8 @@
 - [支持鹏程系列开源大模型应用生态演化的可持续学习能力探索](https://ieeexplore.ieee.org/abstract/document/9860068). 余跃, 刘欣, 蒋芳清, **Han Zhang (张晗)**, et al. *智能科学与技术学报*, 2022.
 
 ### III. Preprint论文
+- [Group Expectation Policy Optimization for Heterogeneous Reinforcement Learning](https://arxiv.org/pdf/2508.17850). **Han Zhang (张晗)**, Ruibin Zheng, Zexuan Yi, Zhuo Zhang, Hanyang Peng, Hui Wang, Zike Yuan, Cai Ke, Shiwei Chen, Jiacheng Yang, Yangning Li, Xiang Li, Jiangyue Yan, Yaoqi Liu, Liwen Jing, Jiayin Qi, Ruifeng Xu, Binxing Fang, Yue Yu. *ArXiv*, 2025.
+ 
 - [PanGu-alpha: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369). Wei Zeng, Xiaozhe Ren, Teng Su, Hui Wang, Yi Liao, Zhiwei Wang, Xin Jiang, ZhenZhang Yang, Kaisheng Wang, Xiaoda Zhang, Chen Li, Ziyan Gong, Yifan Yao, Xinjing Huang, Jun Wang, Jianfeng Yu, Qi Guo, Yue Yu, Yan Zhang, Jin Wang, Hengtao Tao, Dasen Yan, Zexuan Yi, Fang Peng, Fangqing Jiang, **Han Zhang (张晗)**, Lingfeng Deng, Yehong Zhang, Zhe Lin, Chao Zhang, Shaojie Zhang, Mingyue Guo, Shanzhi Gu, Gaojun Fan, Yaowei Wang, Xuefeng Jin, Qun Liu, Yonghong Tian. *ArXiv*, 2021
 
 
