@@ -31,11 +31,13 @@
 - *2011.09 - 2015.06*，河北工业大学，学士学位，数学与应用数学
 
 ## 💼 工作经历
-- *2018.01 - 2020.03*，中国人民解放军火箭军
-- *2020.04 - 2020.07*，中国航天科工集团先进院
-- *2020.08 - 2020.12*，腾讯科技(深圳)有限公司
-- *2020.12 - 2021.08*，鹏城国家实验室
 
+- *2025.06 - 至今*，鹏城国家实验室
+- *2020.12 - 2021.08*，鹏城国家实验室
+- *2020.08 - 2020.12*，腾讯科技(深圳)有限公司
+- *2020.04 - 2020.07*，中国航天科工集团先进院
+- *2018.01 - 2020.03*，中国人民解放军火箭军
+  
 ## 📞 联系方式
 
 **张晗 (Hanlard)**
@@ -64,17 +66,16 @@
 
 - [BeyondGender: A Multifaceted Bilingual Dataset for Practical Sexism Detection](https://ojs.aaai.org/index.php/AAAI/article/view/34656). Xuan Luo, Li Yang, **Han Zhang (张晗)**, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
 
-### II. 期刊论文
+### II. Preprint论文
+- [Group Expectation Policy Optimization for Heterogeneous Reinforcement Learning](https://arxiv.org/pdf/2508.17850). **Han Zhang (张晗)**, Ruibin Zheng, Zexuan Yi, Zhuo Zhang, Hanyang Peng, Hui Wang, Zike Yuan, Cai Ke, Shiwei Chen, Jiacheng Yang, Yangning Li, Xiang Li, Jiangyue Yan, Yaoqi Liu, Liwen Jing, Jiayin Qi, Ruifeng Xu, Binxing Fang, Yue Yu. *ArXiv*, 2025.
+ 
+- [PanGu-alpha: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369). Wei Zeng, Xiaozhe Ren, Teng Su, Hui Wang, Yi Liao, Zhiwei Wang, Xin Jiang, ZhenZhang Yang, Kaisheng Wang, Xiaoda Zhang, Chen Li, Ziyan Gong, Yifan Yao, Xinjing Huang, Jun Wang, Jianfeng Yu, Qi Guo, Yue Yu, Yan Zhang, Jin Wang, Hengtao Tao, Dasen Yan, Zexuan Yi, Fang Peng, Fangqing Jiang, **Han Zhang (张晗)**, Lingfeng Deng, Yehong Zhang, Zhe Lin, Chao Zhang, Shaojie Zhang, Mingyue Guo, Shanzhi Gu, Gaojun Fan, Yaowei Wang, Xuefeng Jin, Qun Liu, Yonghong Tian. *ArXiv*, 2021
+
+### III. 期刊论文
 - [An Orthogonality-based Dual-memory Framework for Continual Text Classification](https://ieeexplore.ieee.org/abstract/document/11027445). **Han Zhang (张晗)**, Yu Lei, Bin Liang, et al. *IEEE Transactions on Audio, Speech and Language Processing* (**TASLP**), 2025.
 
 - [Prompt-based prototypical framework for continual relation extraction](https://ieeexplore.ieee.org/abstract/document/9860068). **Han Zhang (张晗)**, Bin Liang, Min Yang, et al. *IEEE Transactions on Audio, Speech and Language Processing* (**TASLP**), 2022.
 
 - [支持鹏程系列开源大模型应用生态演化的可持续学习能力探索](https://ieeexplore.ieee.org/abstract/document/9860068). 余跃, 刘欣, 蒋芳清, **Han Zhang (张晗)**, et al. *智能科学与技术学报*, 2022.
-
-### III. Preprint论文
-- [Group Expectation Policy Optimization for Heterogeneous Reinforcement Learning](https://arxiv.org/pdf/2508.17850). **Han Zhang (张晗)**, Ruibin Zheng, Zexuan Yi, Zhuo Zhang, Hanyang Peng, Hui Wang, Zike Yuan, Cai Ke, Shiwei Chen, Jiacheng Yang, Yangning Li, Xiang Li, Jiangyue Yan, Yaoqi Liu, Liwen Jing, Jiayin Qi, Ruifeng Xu, Binxing Fang, Yue Yu. *ArXiv*, 2025.
- 
-- [PanGu-alpha: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369). Wei Zeng, Xiaozhe Ren, Teng Su, Hui Wang, Yi Liao, Zhiwei Wang, Xin Jiang, ZhenZhang Yang, Kaisheng Wang, Xiaoda Zhang, Chen Li, Ziyan Gong, Yifan Yao, Xinjing Huang, Jun Wang, Jianfeng Yu, Qi Guo, Yue Yu, Yan Zhang, Jin Wang, Hengtao Tao, Dasen Yan, Zexuan Yi, Fang Peng, Fangqing Jiang, **Han Zhang (张晗)**, Lingfeng Deng, Yehong Zhang, Zhe Lin, Chao Zhang, Shaojie Zhang, Mingyue Guo, Shanzhi Gu, Gaojun Fan, Yaowei Wang, Xuefeng Jin, Qun Liu, Yonghong Tian. *ArXiv*, 2021
-
 
 
