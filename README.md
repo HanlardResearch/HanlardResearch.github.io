@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 60%; min-width: 300px;">
-    我是张晗，鹏城国家实验室助理研究员。我于2025年6月博士毕业，目前我的主要研究兴趣是<strong>大模型推理</strong>、<strong>去中心化分布式训练</strong>。  
+    我是张晗，鹏城实验室助理研究员。我于2025年6月博士毕业，目前我的主要研究兴趣是<strong>大模型推理</strong>、<strong>去中心化分布式训练</strong>。  
     在过往的研究中，我的研究领域包括<strong>大模型价值观对齐</strong>、<strong>偏好学习</strong>、<strong>表示学习</strong>、<strong>持续学习</strong>等方向。  
     以第一作者在 ICLR / AAAI / ACL / EMNLP 等人工智能/自然语言处理等国际顶级会议发表文章。欢迎大家与我学术交流。
   </div>
@@ -36,7 +36,6 @@
 - *2020.12 - 2021.08*，鹏城国家实验室
 - *2020.08 - 2020.12*，腾讯科技(深圳)有限公司
 - *2020.04 - 2020.07*，中国航天科工集团先进院
-- *2018.01 - 2020.03*，中国人民解放军火箭军
   
 ## 📞 联系方式
 
