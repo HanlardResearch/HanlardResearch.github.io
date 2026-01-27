@@ -53,6 +53,8 @@
 
 
 ### I. 会议论文
+- [Group Expectation Policy Optimization for Heterogeneous Reinforcement Learning](https://arxiv.org/pdf/2508.17850). **Han Zhang (张晗)**, Ruibin Zheng, Zexuan Yi, et al. *International Conference on Learning Representations* (**ICLR**), 2026.
+  
 - [Correcting Large Language Model Behavior via Influence Function](https://ojs.aaai.org/index.php/AAAI/article/view/33586). **Han Zhang (张晗)**, Zhuo Zhang, Yi Zhang, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. <span style="color:red"> (Oral)</span>
 
 - [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/pdf?id=86zAUE80pP). **Han Zhang (张晗)**, Yu Lei, Lin Gui, et al. *International Conference on Learning Representations* (**ICLR**), 2024.
@@ -65,9 +67,7 @@
 
 - [BeyondGender: A Multifaceted Bilingual Dataset for Practical Sexism Detection](https://ojs.aaai.org/index.php/AAAI/article/view/34656). Xuan Luo, Li Yang, **Han Zhang (张晗)**, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025.
 
-### II. Preprint论文
-- [Group Expectation Policy Optimization for Heterogeneous Reinforcement Learning](https://arxiv.org/pdf/2508.17850). **Han Zhang (张晗)**, Ruibin Zheng, Zexuan Yi, Zhuo Zhang, Hanyang Peng, Hui Wang, Zike Yuan, Cai Ke, Shiwei Chen, Jiacheng Yang, Yangning Li, Xiang Li, Jiangyue Yan, Yaoqi Liu, Liwen Jing, Jiayin Qi, Ruifeng Xu, Binxing Fang, Yue Yu. *ArXiv*, 2025.
- 
+### II. Preprint论文 
 - [PanGu-alpha: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation](https://arxiv.org/abs/2104.12369). Wei Zeng, Xiaozhe Ren, Teng Su, Hui Wang, Yi Liao, Zhiwei Wang, Xin Jiang, ZhenZhang Yang, Kaisheng Wang, Xiaoda Zhang, Chen Li, Ziyan Gong, Yifan Yao, Xinjing Huang, Jun Wang, Jianfeng Yu, Qi Guo, Yue Yu, Yan Zhang, Jin Wang, Hengtao Tao, Dasen Yan, Zexuan Yi, Fang Peng, Fangqing Jiang, **Han Zhang (张晗)**, Lingfeng Deng, Yehong Zhang, Zhe Lin, Chao Zhang, Shaojie Zhang, Mingyue Guo, Shanzhi Gu, Gaojun Fan, Yaowei Wang, Xuefeng Jin, Qun Liu, Yonghong Tian. *ArXiv*, 2021
 
 ### III. 期刊论文
