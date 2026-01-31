@@ -39,9 +39,6 @@
 
 - [Prompt-based prototypical framework for continual relation extraction](https://ieeexplore.ieee.org/abstract/document/9860068). **Han Zhang (张晗)**, Bin Liang, Min Yang, et al. *IEEE Transactions on Audio, Speech and Language Processing* (**TASLP**), 2022.
 
-- [支持鹏程系列开源大模型应用生态演化的可持续学习能力探索](https://ieeexplore.ieee.org/abstract/document/9860068). 余跃, 刘欣, 蒋芳清, **Han Zhang (张晗)**, et al. *智能科学与技术学报*, 2022.
-
-
 
 
 ## 🥇 获奖情况
