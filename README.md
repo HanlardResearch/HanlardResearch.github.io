@@ -24,7 +24,7 @@
 ### I. 会议论文
 - [GEPO: Group Expectation Policy Optimization for Heterogeneous Reinforcement Learning](https://arxiv.org/pdf/2508.17850). **Han Zhang (张晗)**, Ruibin Zheng, Zexuan Yi, et al. *International Conference on Learning Representations* (**ICLR**), 2026.
   
-- [LACENT: Correcting Large Language Model Behavior via Influence Function](https://ojs.aaai.org/index.php/AAAI/article/view/33586). **Han Zhang (张晗)**, Zhuo Zhang, Yi Zhang, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. <span style="color:red"> (Oral)</span>
+- [LANCET: Correcting Large Language Model Behavior via Influence Function](https://ojs.aaai.org/index.php/AAAI/article/view/33586). **Han Zhang (张晗)**, Zhuo Zhang, Yi Zhang, et al. *AAAI Conference on Artificial Intelligence* (**AAAI**), 2025. <span style="color:red"> (Oral)</span>
 
 - [COPR: Continual Human Preference Learning via Optimal Policy Regularization](https://aclanthology.org/2025.findings-acl.281/). **Han Zhang (张晗)**, Lin Gui, Yu Lei, et al. *Association for Computational Linguistics* (**ACL**), 2025.
 
